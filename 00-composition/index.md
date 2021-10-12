@@ -5,7 +5,7 @@ This icebreaker exercise is about converting image to text which should help oth
 ![Composition 1](img/01-instruction.jpeg)
 
 ### Image description:
-- There are five 2cm wide rectangles in a row centered in the moddle of the paper. 
+- There are five 2cm wide rectangles in a row centered in the middle of the paper. 
 - Space between each rectangle is 0,5cm
 - The height and starting point of each rectangles vary.
 - All of them are white with black outline except the fourth one which is black.
