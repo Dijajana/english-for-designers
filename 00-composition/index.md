@@ -36,4 +36,4 @@ This icebreaker exercise is about converting image to text which should help oth
 
 ## Final image
 
-![Composition 1](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/01-comp.png)
+![Composition 4](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/04-comp.png)
