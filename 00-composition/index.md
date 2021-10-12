@@ -2,7 +2,7 @@
 
 This icebreaker exercise is about converting image to text which should help others to replicate the exact image without seeing it.
 
-![Composition 1] (img/01-instruction.jpeg)
+![Composition 1](img/01-instruction.jpeg)
 
 ### Image description:
 - There are five 2cm wide rectangles in a row centered in the moddle of the paper. 
