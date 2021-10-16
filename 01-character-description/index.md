@@ -6,4 +6,7 @@
 
 - - -
 
-*&*, Diana Štěpničková. 
+Diana Štěpničková. 
+
+original photo
+(img/original.jpg)
