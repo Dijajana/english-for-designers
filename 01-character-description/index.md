@@ -6,7 +6,7 @@
 
 - - -
 
-### Original photo
+# Original photo
 
 ![Photo of uppercase D made out of assorted jewls.](img/original.jpg)
 
