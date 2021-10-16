@@ -5,6 +5,8 @@
 **Alt text:** Cutely photoshoped photo of uppercase D made out of assorted jewls.
 
 
+
+
 # Original photo
 
 ![Photo of uppercase D made out of assorted jewls.](img/original.jpg)
