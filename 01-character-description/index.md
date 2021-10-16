@@ -1,15 +1,15 @@
 # Character & Description
 
-![Cutely photoshoped photo of uppercase D made out of assorted jewls.](img/letter-d.jpg)
+![Cutely photoshopped photo of uppercase D made out of assorted jewls.](img/letter-d.jpg)
 
-**Alt text:** Cutely photoshoped photo of uppercase D made out of assorted jewls.
+**Alt text:** Cutely photoshopped photo of uppercase D made out of assorted jewels.
 
 
 
 
 # Original photo
 
-![Photo of uppercase D made out of assorted jewls.](img/original.jpg)
+![Photo of uppercase D made out of assorted jewels.](img/original.jpg)
 
 - - -
 
