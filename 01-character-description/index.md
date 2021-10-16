@@ -9,4 +9,4 @@
 Diana Štěpničková. 
 
 original photo
-(img/original.jpg)
+![Photo of uppercase D made out of assorted jewls.](img/original.jpg)
