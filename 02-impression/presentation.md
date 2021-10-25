@@ -1,6 +1,6 @@
 # Impression
 
-## Title — work by Rad Osm
+## Title
 
 ![Screenshot from title slide of presentation.](img/1-slide.jpg)
 
