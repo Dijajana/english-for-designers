@@ -52,18 +52,19 @@ After I infiltrated Shoptet offices with my illustrations it was very hard for t
 I have got a list of 14 main services that Shoptet offers to their users and created an illustration for each.
 
 
-## Landing page
+## Main page
 
 ![Screenshot from title slide of presentation.](img/09-slide.jpg)
 
-I used those illustrations in the main page uplift.
+I used those illustrations in the main page uplift. 
+After few smaller jobs on different subpages I have got my third best portfolio piece job.
 
 
 ## Shoptet premium
 
 ![Screenshot from title slide of presentation.](img/10-slide.jpg)
 
-The last design in my presentation is a website for Shoptet's new platform called Shoptet premium which launched this year.
+The landing page design for Shoptet's new platform called Shoptet premium which launched this year.
 
 
 ## Illustrations
@@ -71,3 +72,11 @@ The last design in my presentation is a website for Shoptet's new platform calle
 ![Screenshot from title slide of presentation.](img/11-slide.jpg)
 
 And a mini series of illustrations for Shoptet premium related presentations to clients.
+
+## The End
+
+---
+
+Diana Štěpničková
+
+
