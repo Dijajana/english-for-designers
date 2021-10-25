@@ -1,16 +1,20 @@
-# Impression
+# My best portfolio pieces
 
-## Title
+## Shoptet
 
 ![Screenshot from title slide of presentation.](img/1-slide.jpg)
 
 When I think about my best portfolio pieces my mind goes immediately to my freelance work for Shoptet. Shoptet is the biggest E-commerce platform in Czech Republic with over 28 000 e-shops running on their servers and 21 billion dollars annual turnover. You might be asking…
+
+## What?
 
 ![Screenshot from title slide of presentation.](img/2-slide.jpg)
 
 …why on earth did they hire me?
 Well let me tell you a story about how I have got to do my 3 favourite portfolio pieces. 
 It all started in summer 2019 right before I started as a freshman on this very school.
+
+## Summer 2019
 
 ![Screenshot from title slide of presentation.](img/3-slide.jpg)
 
