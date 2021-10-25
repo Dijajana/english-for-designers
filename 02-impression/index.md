@@ -4,7 +4,7 @@
 
 ![Screenshot from title slide of presentation.](img/00-title.jpg)
 
-My name is Diana. I went to the high school of building construction and then got a requalification course in graphic design programs. Soon after I had a job in the DTP department in the graphic studio, where I worked for one year. There I found my love for graphic design and illustrations and decided to go to university.
+My name is Diana. I went to the high school of building construction for some reason and then got a requalification course in graphic design programs. Soon after I had gotten a job in the DTP department in the graphic studio, where I worked for one year. There I found my love for graphic design and illustrations and decided to go to university.
 
 - [View Presentation](presentation.md)
 
