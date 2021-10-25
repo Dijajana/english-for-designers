@@ -1,6 +1,6 @@
 # Impression
 
-## Title — work by Diana Štěpničková
+## My best portfolio pieces
 
 ![Screenshot from title slide of presentation.](img/0-title.jpg)
 
