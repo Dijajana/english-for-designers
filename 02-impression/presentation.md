@@ -30,17 +30,19 @@ Topdesigner is a site with open tenders where anyone can join in with their desi
 
 ![Screenshot from title slide of presentation.](img/5-slide.jpg)
 
-Which you can see here. After another week I have got a call from the CEO telling me that I won the competition and asking for another 6 murals.
+Which you can see here. 
 
 ## Murals
 
 ![Screenshot from title slide of presentation.](img/6-slide.jpg)
 
-After I infiltrated Shoptet offices with my illustrations it was very hard for the CEO to stop thinking about me. So short time after he asked me to create a series of web illustration and uplift of Shoptet's main page.
+After another week I have got a call from the CEO telling me that I won the competition and asking for another 6 murals.
 
 ## Web illustrations
 
 ![Screenshot from title slide of presentation.](img/7-slide.jpg)
+
+After I infiltrated Shoptet offices with my illustrations it was very hard for the CEO to stop thinking about me. So short time after he asked me to create a series of web illustration and uplift of Shoptet's main page.
 
 I have got a list of 14 main services that Shoptet offers to their users and created an illustration for each.
 
