@@ -6,7 +6,7 @@
 
 Short description about yourself and the work.
 
-- [View Presentation](img/slide-1.jpg)
+- [View Presentation](img)
 
 ### Notes
 
