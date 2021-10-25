@@ -38,32 +38,36 @@ Which you can see here.
 
 After another week I have got a call from the CEO telling me that I won the competition and asking for another 6 murals.
 
-## Web illustrations
+## CEO
 
 ![Screenshot from title slide of presentation.](img/7-slide.jpg)
 
 After I infiltrated Shoptet offices with my illustrations it was very hard for the CEO to stop thinking about me. So short time after he asked me to create a series of web illustration and uplift of Shoptet's main page.
 
-I have got a list of 14 main services that Shoptet offers to their users and created an illustration for each.
 
-## Landing page
+## Web illustrations
 
 ![Screenshot from title slide of presentation.](img/8-slide.jpg)
 
-I used those illustrations in the main page uplift as well
+I have got a list of 14 main services that Shoptet offers to their users and created an illustration for each.
 
-## Shoptet premium
+
+## Landing page
 
 ![Screenshot from title slide of presentation.](img/9-slide.jpg)
 
-The last design in my presentation is a website for Shoptet's new platform called Shoptet premium which launched this year.
+I used those illustrations in the main page uplift.
 
-## Illustrations
+
+## Shoptet premium
 
 ![Screenshot from title slide of presentation.](img/10-slide.jpg)
 
-And a mini series of illustrations for Shoptet premium related presentations to clients.
+The last design in my presentation is a website for Shoptet's new platform called Shoptet premium which launched this year.
+
 
 ## Illustrations
 
 ![Screenshot from title slide of presentation.](img/11-slide.jpg)
+
+And a mini series of illustrations for Shoptet premium related presentations to clients.
