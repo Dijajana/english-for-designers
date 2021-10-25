@@ -12,9 +12,7 @@ My name is Diana. I went to high school of building construction and then got a 
 
 Numbered comments correspond to slide order.
 
-1. When I think about my best portfolio pieces my mind goes immediately to my freelance work for Shoptet. Shoptet is the biggest E-commerce platform in Czech Republic with over 28 000 e-shops running on their servers and 21 billion dollars annual turnover.
-
-They could hire any designer they want to, so you probably asking…
+1. When I think about my best portfolio pieces my mind goes immediately to my freelance work for Shoptet. Shoptet is the biggest E-commerce platform in Czech Republic with over 28 000 e-shops running on their servers and 21 billion dollars annual turnover. They could hire any designer they want to, so you probably asking…
 
 2. …why on earth would they hire me?
 Well let me tell you a story about how I got to do my 3 favourite portfolio pieces. 
