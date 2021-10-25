@@ -43,3 +43,5 @@ The last design in my presentation is a website for Shoptet's new platform calle
 ![Screenshot from title slide of presentation.](img/10-slide.jpg)
 
 And a mini series of illustrations for Shoptet premium related presentations to clients.
+
+![Screenshot from title slide of presentation.](img/11-slide.jpg)
