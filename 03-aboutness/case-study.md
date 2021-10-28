@@ -31,7 +31,7 @@ I started by creating a color pallet that would fit the website design. There ar
 
 ## First round of illustrations
 
-Here you can see with what concepts I created.
+Here you can see the concepts I created.
 
 On image: Safe hosting, site traffic boost, marketing
 ![Shoptetrix handeling bussines.](img/firstround.png)
@@ -52,7 +52,7 @@ First the main page:
 Then the "What we do" subpage
 ![shoptet's main page screenshot.](img/subpage.png)
 
-The redesign resulted in a more friendly and professional looking design which helps to build trust with the customers.
+The redesign resulted in a more friendly and professional looking environment which helps to build trust with the customers.
 
 
 
