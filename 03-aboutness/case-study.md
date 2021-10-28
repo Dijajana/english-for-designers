@@ -9,7 +9,11 @@ Being an e-commerce platform Shoptet's bussines is based predominantly on the in
 
 ## Brief
 
-I got a list of all of the services with a short description. In the beginning, I was asked for the first three illustrations to see if they like the results. 
+In the beginning, I was asked for the first three illustrations as a trial. I was given the names of the 3 categories with short description for each. 
+
+ 1. Safe hosting
+ 2. Site traffic boost
+ 3. Marketing
 
 Shoptet's conditions: 
   - Each illustration has to include Shoptet's mascot Shoptetrix. 
@@ -19,16 +23,15 @@ My conditions:
   - Bearing in mind the overall visual style of the website, with emphasis on the colors.  
 
 
-
 ## Color pallet
 
 I started by creating a color pallet that would fit the website design. There are three colors in the Shoptet's logo - orange, blue and green. The green is already represented by the Shoptetrix's outfit by default. Therefore I left green out of the color palette and reserved it for Shoptetrix only, ensuring that he would always stand out in the image. Instead, I focused on the orange and the blue. I matched the two with other tones of orange and blue ending up with two harmonious palettes complementing each other and preparing a great base for mostly green Shoptetrix.
 
 ![color palette with oranges and blues.](img/paleta.png)
 
-## First 3 concepts
+## First 3 illustrations
 
 
-
+I got a list of all of the services with a short description.
 
 
