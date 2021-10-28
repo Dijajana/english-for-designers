@@ -36,7 +36,7 @@ Here you can see with what concepts I created.
 On image: Safe hosting, site traffic boost, marketing
 ![Shoptetrix handeling bussines.](img/firstround.png)
 
-## Rest fo the series
+## Rest of the series
 
 After that I got a list of all of the services with a short description and finished the whole series.
 
@@ -52,7 +52,7 @@ First the main page:
 Then the "What we do" subpage
 ![shoptet's main page screenshot.](img/subpage.png)
 
-The redesign resulted in a more friendly and professional looking design.
+The redesign resulted in a more friendly and professional looking design which helps to build trust with the customers.
 
 
 
