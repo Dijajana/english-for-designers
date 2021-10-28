@@ -42,7 +42,7 @@ After that I got a list of all of the services with a short description and fini
 
 ![series of illustrations with Shoptetrix.](img/all.png)
 
-## Final results
+## The outcome
 
 When the series was finished the individual illustrations where implemented into the website.
 
@@ -51,6 +51,12 @@ First the main page:
 
 Then the "What we do" subpage
 ![shoptet's main page screenshot.](img/subpage.png)
+
+The redesign resulted in a more friendly and professional looking design.
+
+
+
+
 
 
 
