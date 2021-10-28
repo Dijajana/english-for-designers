@@ -29,17 +29,17 @@ I started by creating a color pallet that would fit the website design. There ar
 
 ![color palette with oranges and blues.](img/paleta.png)
 
-## First 3 illustrations
+## First round of illustrations
 
-Safe hosting
-![Shoptetrix garding a safe on a cloud.](img/safe.png)
+Here you can see with what concepts I came up with.
 
-Site traffic boost
-![Excited Shoptetrix witnessing a chart boost.](img/growth.png)
+On image: Safe hosting, site traffic boost, marketing
+![Shoptetrix handeling bussines.](img/firstround.png)
 
- 3. Marketing
- ![Shoptetrix preparing a billboard.](img/marketing.png)
+## Rest fo the series
 
-I got a list of all of the services with a short description.
+After that I got a list of all of the services with a short description and finished the whole series.
+
+![series of illustrations with Shoptetrix.](img/firstround.png)
 
 
