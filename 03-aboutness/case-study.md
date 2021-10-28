@@ -9,7 +9,15 @@ Being an e-commerce platform Shoptet's bussines is based predominantly on the in
 
 ## Brief
 
-I got a list of all of the services with a short description. In the beginning, they asked me for the first three illustrations to see if they like the results. The only condition was that each illustration has to include Shoptet's mascot Shoptetrix. I needed to come up with a concept for each illustration that would fit the category and its description the best. Also, I needed to bear in mind the overall visual style of the website, especially the colors.  
+I got a list of all of the services with a short description. In the beginning, I was asked for the first three illustrations to see if they like the results. 
+
+Shoptet's conditions: 
+  - Each illustration has to include Shoptet's mascot Shoptetrix. 
+
+My conditions: 
+  - Giving each illustration a concept that will fit the category and its description the best. 
+  - Bearing in mind the overall visual style of the website, with emphasis on the colors.  
+
 
 
 ## Color pallet
