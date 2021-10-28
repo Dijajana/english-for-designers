@@ -9,6 +9,7 @@ I am Diana, illustrator, mother, traveler and mediocre piano player based in Kut
 ## My Story
 
 ![Alt text description.](img/profilovka.png)
+
 It would be easy to say that I always dreamed about being an illustrator since I was little, while scribbeling drawings all over my school notes. But I didn't.
 I found my love for illustrations when I was about 23. I was attending a graphic design course as a part of the EU youth support program which got me a job in a DTP department of the graphic studio. Since then I knew there is nothing else I want to do than graphic design and illustrations.
 
