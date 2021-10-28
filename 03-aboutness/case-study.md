@@ -44,7 +44,7 @@ After that I got a list of all of the services with a short description and fini
 
 ## The outcome
 
-When the series was finished the individual illustrations where implemented into the website.
+When the series was finished the individual illustrations were implemented into the website.
 
 First the main page:
 ![shoptet's main page screenshot.](img/mainpage.png)
