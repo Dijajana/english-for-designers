@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Diana, illustrator, mother, traveler and mediocre piano player based in Kutná Hora. 
+I am Diana, illustrator, graphic designer and mediocre ukulele player based in Kutná Hora. 
 
 - [View Selected Case Study](case-study.md)
 
