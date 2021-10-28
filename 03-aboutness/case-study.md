@@ -11,9 +11,9 @@ Being an e-commerce platform Shoptet's bussines is based predominantly on the in
 
 In the beginning, I was asked for the first three illustrations as a trial. I was given the names of the 3 categories with short description for each. 
 
- 1. Safe hosting
- 2. Site traffic boost
- 3. Marketing
+  - Safe hosting
+  - Site traffic boost
+  - Marketing
 
 Shoptet's conditions: 
   - Each illustration has to include Shoptet's mascot Shoptetrix. 
