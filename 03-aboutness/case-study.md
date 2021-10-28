@@ -4,7 +4,7 @@
 
 Being an e-commerce platform Shoptet's bussines is based predominantly on the internet. More specifically on their page shoptet.cz. It is the face that they're showing the world and therefore one of the most important parts of their business. Shopted aimed to make the main page and the first subpage "What we do" more visually attractive for users and the marketing team decided that illustrations with their mascot are the key. There are 14 main services that Shopted offers and each of them needed an illustration. That is when they contacted me.
 
-![color palette with oranges and blues.](img/po.png)
+![screenshot of a shoptet's website.](img/po.png)
 
 
 ## Brief
@@ -31,6 +31,14 @@ I started by creating a color pallet that would fit the website design. There ar
 
 ## First 3 illustrations
 
+Safe hosting
+![Shoptetrix garding a safe on a cloud.](img/safe.png)
+
+Site traffic boost
+![Excited Shoptetrix witnessing a chart boost.](img/growth.png)
+
+ 3. Marketing
+ ![Shoptetrix preparing a billboard.](img/marketing.png)
 
 I got a list of all of the services with a short description.
 
