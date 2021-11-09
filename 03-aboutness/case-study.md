@@ -1,6 +1,6 @@
-# Case study
+# Illustration system and color palette
 
-## Shoptet's Illustration system and color palette
+## Shoptet 
 
 Being an e-commerce platform Shoptet's business is based predominantly on the internet. More specifically on their page shoptet.cz. It is the face that they're showing to the world and therefore one of the most important part of their business. Shopted aimed to make the main page and the first subpage "What we do" more visually attractive for users and the marketing team decided that illustrations with their mascot are the key. There are 14 main services that Shopted offers and each of them needed an illustration. That is when I got contacted.
 
