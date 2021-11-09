@@ -54,6 +54,9 @@ Then the "What we do" subpage
 
 The redesign resulted in a more friendly and professional looking environment which helps to build trust with the customers. Shoptet also gained an illustration system which other designers can follow.
 
+Link to the website:
+www.shoptet.com
+
 
 
 
