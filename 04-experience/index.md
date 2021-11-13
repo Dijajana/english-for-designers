@@ -15,22 +15,24 @@ Contact me: dianastepnickova@gmail.com
 
 Latest projects:
 
-##### Bollywood festival
-- visual identity, posters, social media content, 
+Bollywood festival
+- visual identity, illustrations, posters, social media content, webdesign 
 - www.bollywood.cz
-*nominated for the National student design award 2021
+
+*Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021
+*Visual identity nominated for the National student design award 2021 
 
 Shoptet premium
 - visual identity, landing page design
 - www.shoptetpremium.com
 
-- Shoptet 
-   illustrations system, website design, murals
-   www.shoptet.cz
+Shoptet 
+- illustrations system, website design, murals
+- www.shoptet.cz
 
-- Koli
-  winning rebrand proposal
-  www.dribbble.com/shots/10751897-Koli  
+Koli
+- winning rebrand proposal
+- www.dribbble.com/shots/10751897-Koli  
 
    
 #### Graphic designer at Bar 22
@@ -58,7 +60,6 @@ Authorizing body : Ministry of education, youth and sports
 2014
 
 
-<!-- Higher education, not high school unless it's a speciality/vocational school worth mentioning. -->
 
 ## Skills
 
@@ -67,6 +68,5 @@ Visual identity and branding
 Webdesign
 Prepress consulting
 
-<!-- Not just software, please! See Caroline Win’s skills section: https://www.carolinewin.com/resume -->
 
 - [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
