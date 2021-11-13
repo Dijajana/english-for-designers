@@ -10,7 +10,7 @@ Contact me: dianastepnickova@gmail.com
 
 ## Experience
 
-####Freelance graphic designer
+#### Freelance graphic designer
 2017 - 2021
 
 Latest projects:
@@ -31,7 +31,7 @@ Latest projects:
   winning rebrand proposal
   www.dribbble.com/shots/10751897-Koli
 
-####Graphic studio member
+#### Graphic studio member
 Lepor s.r.o. - worked on prepress, printing and graphic design
 Kutná Hora
 2015 - 2017
