@@ -40,6 +40,13 @@ www.facebook.com/bar22kh/
 ### Graphic studio member *2015 - 2017*
 
 Lepor s.r.o. - worked on prepress, printing and graphic design
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 
 
