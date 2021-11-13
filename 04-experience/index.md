@@ -4,9 +4,6 @@
 
 I am Diana, illustrator, graphic designer and mediocre ukulele player based in Kutná Hora.
 
-Contact me: dianastepnickova@gmail.com
-
-
 
 ## Experience
 
@@ -68,5 +65,6 @@ Visual identity and branding
 Webdesign
 Prepress consulting
 
+Contact me: dianastepnickova@gmail.com
 
 - [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
