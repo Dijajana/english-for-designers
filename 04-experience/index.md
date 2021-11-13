@@ -15,9 +15,10 @@ Contact me: dianastepnickova@gmail.com
 
 Latest projects:
 
-Bollywood festival
-- visual identity
+##### Bollywood festival
+- visual identity, posters, social media content, 
 - www.bollywood.cz
+*nominated for the National student design award 2021
 
 Shoptet premium
 - visual identity, landing page design
