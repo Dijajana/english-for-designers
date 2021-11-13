@@ -15,7 +15,7 @@ Latest projects:
 - visual identity, illustrations, posters, social media content, webdesign 
 - www.bollywood.cz
 
-*Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
+> *Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
 
 *Visual identity nominated for the National student design award 2021* 
 
@@ -40,10 +40,7 @@ www.facebook.com/bar22kh/
 ### Graphic studio member *2015 - 2017*
 
 Lepor s.r.o. - worked on prepress, printing and graphic design
-	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
 
 
 
