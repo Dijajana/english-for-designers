@@ -15,15 +15,13 @@ Contact me: dianastepnickova@gmail.com
 
 Latest projects:
 
-- Bollywood festival
+Bollywood festival
+- visual identity
+- www.bollywood.cz
 
-visual identity
-
-www.bollywood.cz
-
-- Shoptet premium
-  visual identity, landing page design
-  www.shoptetpremium.com
+Shoptet premium
+- visual identity, landing page design
+- www.shoptetpremium.com
 
 - Shoptet 
    illustrations system, website design, murals
