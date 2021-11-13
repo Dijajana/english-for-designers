@@ -10,19 +10,31 @@ Contact me: dianastepnickova@gmail.com
 
 ## Experience
 
-Freelancer
+####Freelance graphic designer
+2017 - 2021
 
 Latest projects:
 
-Shoptet premium - visual identity, landing page design
-Bollywood festival - visual identity
-Shoptet - illustrations system, website design, murals
-Koli - winning rebrand proposal
+- Shoptet premium
+  visual identity, landing page design
+  www.shoptetpremium.com
+  
+- Bollywood festival
+  visual identity
+  www.bollywood.cz
+  
+- Shoptet
+   illustrations system, website design, murals
+   www.shoptet.cz
+   
+- Koli
+  winning rebrand proposal
+  www.dribbble.com/shots/10751897-Koli
 
-Graphic studio member
+####Graphic studio member
 Lepor s.r.o. - worked on prepress, printing and graphic design
 Kutná Hora
-Jan 2015 - Feb 2016
+2015 - 2017
 
 <!-- Sort by newest (present) to oldest. -->
 
