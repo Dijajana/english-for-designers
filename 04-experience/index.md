@@ -15,21 +15,28 @@ Contact me: dianastepnickova@gmail.com
 
 Latest projects:
 
+- Bollywood festival 
+  visual identity
+  www.bollywood.cz
+
 - Shoptet premium
   visual identity, landing page design
   www.shoptetpremium.com
-  
-- Bollywood festival
-  visual identity
-  www.bollywood.cz
-  
-- Shoptet
+
+- Shoptet 
    illustrations system, website design, murals
    www.shoptet.cz
-   
+
 - Koli
   winning rebrand proposal
-  www.dribbble.com/shots/10751897-Koli
+  www.dribbble.com/shots/10751897-Koli  
+
+   
+#### Graphic designer at Bar 22
+since 2020
+Creating social media content, print design and offering visual advise at Kutná Hora's famous Bar 22.
+www.facebook.com/bar22kh/
+
 
 #### Graphic studio member
 2015 - 2017
