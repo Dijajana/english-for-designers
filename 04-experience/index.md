@@ -32,15 +32,22 @@ Latest projects:
   www.dribbble.com/shots/10751897-Koli
 
 #### Graphic studio member
-Lepor s.r.o. - worked on prepress, printing and graphic design
-Kutná Hora
 2015 - 2017
 
-<!-- Sort by newest (present) to oldest. -->
+Lepor s.r.o. - worked on prepress, printing and graphic design
+
+
+
 
 ## Education
 
-BcA in Graphic design, College of creative communication *2022
+BcA in Graphic design
+College of creative communication 
+*2022
+
+Requalification course at Graphic designing, Adobe photoshop, Adobe Illustrator and InDesign.
+Authorizing body : Ministry of education, youth and sports
+2014
 
 
 <!-- Higher education, not high school unless it's a speciality/vocational school worth mentioning. -->
