@@ -15,8 +15,10 @@ Contact me: dianastepnickova@gmail.com
 
 Latest projects:
 
-- Bollywood festival 
+- Bollywood festival
+
 visual identity
+
 www.bollywood.cz
 
 - Shoptet premium
