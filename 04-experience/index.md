@@ -7,43 +7,40 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 
 ## Experience
 
-### Graphic designer at Bar 22 *since 2020*
+### Graphic designer at Bar 22 
+*since 2020*
+
 Design consultant. Social media content and print design creator at Kutná Hora's famous Bar 22.
 www.facebook.com/bar22kh/
 
-### Freelance graphic designer *2017 - 2021*
+### Freelance graphic designer 
+*2017 - 2021*
 Latest projects
 
-##**Bollywood festival**
+**Bollywood festival**
 - visual identity, illustrations, posters, social media content, webdesign 
 - www.bollywood.cz
 
 > *Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
 > *Visual identity nominated for the National student design award 2021* 
 
-##**Shoptet premium**
+**Shoptet premium**
 - visual identity, landing page design
 - www.shoptetpremium.com
 
-##**Shoptet** 
+**Shoptet** 
 - illustrations system, website design, murals
 - www.shoptet.cz
 
-##**Koli**
+**Koli**
 - winning rebrand proposal
 - www.dribbble.com/shots/10751897-Koli  
 
    
-
-
-
-### Graphic studio member *2015 - 2017*
+### Graphic studio member 
+*2015 - 2017*
 
 Lepor s.r.o. - worked on prepress, printing and graphic design
-
-
-
-
 
 ## Education
 
