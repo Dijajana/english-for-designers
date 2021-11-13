@@ -7,6 +7,9 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 
 ## Experience
 
+
+```
+{
 ### Freelance graphic designer *2017 - 2021*
 
 Latest projects:
@@ -40,11 +43,6 @@ www.facebook.com/bar22kh/
 ### Graphic studio member *2015 - 2017*
 
 Lepor s.r.o. - worked on prepress, printing and graphic design
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
 }
 ```
 
