@@ -15,14 +15,15 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 
 ### Freelance graphic designer 
 *2017 - 2021*
-Latest projects
+| Latest projects
 
 **Bollywood festival**
 - visual identity, illustrations, posters, social media content, webdesign 
 - www.bollywood.cz
 
-> *Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
-> *Visual identity nominated for the National student design award 2021* 
+*Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
+
+*Visual identity nominated for the National student design award 2021* 
 
 **Shoptet premium**
 - visual identity, landing page design
