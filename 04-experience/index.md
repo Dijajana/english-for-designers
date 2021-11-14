@@ -10,8 +10,8 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 ### Graphic designer at Bar 22 
 *since 2020*
 
-Design consultant. Social media content and print design creator at Kutná Hora's famous Bar 22.
-www.facebook.com/bar22kh/
+- Design consultant. Social media content and print design creator at Kutná Hora's famous Bar 22.
+- www.facebook.com/bar22kh/
 
 ### Freelance graphic designer 
 *2017 - 2021*
@@ -44,22 +44,25 @@ Lepor s.r.o. - worked on prepress, printing and graphic design
 
 ## Education
 
-BcA in Graphic design
+**BcA in Graphic design**
 College of creative communication 
-*2022
+* *2022*
 
-Requalification course at Graphic designing, Adobe photoshop, Adobe Illustrator and InDesign.
+**Requalification course** at Graphic designing, Adobe photoshop, Adobe Illustrator and InDesign.
 Authorizing body : Ministry of education, youth and sports
-2014
-
+*2014*
 
 
 ## Skills
 
+### Design
 Illustration
 Visual identity and branding
 Webdesign
 Prepress consulting
+
+### Tools
+Figma, github, milanote
 
 Contact me: dianastepnickova@gmail.com
 
