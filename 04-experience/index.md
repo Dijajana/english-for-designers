@@ -1,9 +1,6 @@
-<!-- Use Markdown for headings, paragraphs, lists, etc. to add structural meaning to your content. -->
-
 # Diana Štěpničková
 
 I am Diana, illustrator, graphic designer and mediocre ukulele player based in Kutná Hora.
-
 
 ## Experience
 
@@ -14,8 +11,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 - www.facebook.com/bar22kh/
 
 ### Freelance graphic designer 
-*2017 - 2021*
-| Latest projects
+*2017 - 2021* | Latest projects
 
 **Bollywood festival**
 - visual identity, illustrations, posters, social media content, webdesign 
