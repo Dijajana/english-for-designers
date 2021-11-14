@@ -11,7 +11,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 - www.facebook.com/bar22kh/
 
 ### Freelance graphic designer 
-*2017 - 2021* | Latest projects
+Latest projects
 
 **Bollywood festival**
 - visual identity, illustrations, posters, social media content, webdesign 
