@@ -14,7 +14,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 Latest projects:
 
 **Bollywood festival**
-- visual identity, illustrations, posters, social media content, webdesign 
+Visual identity for „Festival indických filmů“,including illustrations, posters, social media content and webdesign.
 - www.bollywood.cz
 
 *Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
@@ -22,15 +22,15 @@ Latest projects:
 *Visual identity nominated for the National student design award 2021* 
 
 **Shoptet premium**
-- visual identity, landing page design
+Visual identity for Shoptet premium and landing page design.
 - www.shoptetpremium.com
 
 **Shoptet** 
-- illustrations system, website design, murals
+Creating an ilustrations system, color palette, website design and office murals for Shoptet.
 - www.shoptet.cz
 
 **Koli**
-- winning rebrand proposal
+Packaging and marketing strategy - Winning rebrand proposal
 - www.dribbble.com/shots/10751897-Koli  
 
    
@@ -63,7 +63,6 @@ Figma, github, milanote
 
 Contact me: dianastepnickova@gmail.com
 
-- [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
 
 ## Design
 
