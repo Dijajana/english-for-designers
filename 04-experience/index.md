@@ -64,3 +64,9 @@ Figma, github, milanote
 Contact me: dianastepnickova@gmail.com
 
 - [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
+
+## Design
+
+![page with diana's black and white resume.](img/resume.png)
+
+![about page with simple black and white drawing of diana.](img/about.png)
