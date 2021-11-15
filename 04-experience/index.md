@@ -62,7 +62,7 @@ Prepress consulting
 Figma, github, milanote
 
 Contact me: dianastepnickova@gmail.com
-- [Download CV (PDF)](pdf/cv.pdf)
+- [Download CV (PDF)](pdf/cv-stepnickova.pdf)
 
 
 
