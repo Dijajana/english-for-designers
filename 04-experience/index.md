@@ -64,8 +64,4 @@ Figma, github, milanote
 Contact me: dianastepnickova@gmail.com
 
 
-## Design
 
-![page with diana's black and white resume.](img/resume.png)
-
-![about page with simple black and white drawing of diana.](img/about.png)
