@@ -13,7 +13,7 @@ I have working experience in illustration, web design, print design and visual i
 ### Latest Projects 
 
 **Bollywood festival**
-Visual identity for „Festival indických filmů“,including illustrations, posters, social media content and webdesign.
+Visual identity for "Festival indických filmů",including illustrations, posters, social media content and webdesign.
 
 - Poster currently competing in - "The most beautiful festival poster" contest at Festival Identity forum 2021*
 - Visual identity nominated for the National student design award 2021* 
@@ -21,10 +21,8 @@ Visual identity for „Festival indických filmů“,including illustrations, po
 **Shoptet premium**
 Visual identity for Shoptet premium and landing page design.
 
-
 **Shoptet** 
 Creating an ilustrations system, color palette, website design and office murals for Shoptet.
-
 
 **Koli**
 Winning rebrand proposal for Koli. Including new soda packaging and marketing strategy.
@@ -47,6 +45,7 @@ Graphic studio member in Lepor‘s DTP department. Worked with clients on daily 
 VŠKK in Prague
 University of creative Comunication
 * *2022*
+Academic interests - typography, drawing and painting, digital design
 
 **Certification** 
 Graphic design 
@@ -56,16 +55,18 @@ Authorizing body : Ministry of education, youth and sports
 *2014*
 
 
-## Skills
+### Skills
 
-### Design
 Illustration
-Visual identity and branding
-Webdesign
-Prepress consulting
+Visual identity and Branding
+Landing page design 
+Prototyping
+Markdown, html
+Prepress
 
 ### Tools
-Figma, github, milanote
+Adobe creative cloud - Illustrator, InDesign, Photoshop, After effects
+Figma, GitHub, Milanote
 
 Contact me: dianastepnickova@gmail.com
 - [Download CV (PDF)](pdf/cv-stepnickova.pdf)
