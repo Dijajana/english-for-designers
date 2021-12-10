@@ -7,7 +7,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 - [View CV](04-experience/pdf/cv-stepnickova.pdf)
 
 ## Work
-- Case Study: Title
+- Case Study: [Shoptet's illustration system](03-aboutness/case-study.md)
 - Impression
 - [Character & Description](01-character-description/)
 - Storytelling (WIP)
