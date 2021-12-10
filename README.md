@@ -8,10 +8,10 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 
 ## Work
 - Case Study: [Shoptet's illustration system](03-aboutness/case-study.md)
-- Impression
-- [Character & Description](01-character-description/)
+- Impression: [My best portfolio pieces](02-impression/index.md)
+- [Character & Description](01-character-description/index.md)
 - Storytelling (WIP)
 
 ## Contact
 
-- ?
+- email: stepnickovadiana@gmail.com
