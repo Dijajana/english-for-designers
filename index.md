@@ -11,6 +11,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 - Impression: [My best portfolio pieces](02-impression/index.md)
 - [Character & Description](01-character-description/index.md)
 - Storytelling (WIP)
+- Extra: [Takeaways](extra-takeaways/index.md)
 
 ## Contact
 
