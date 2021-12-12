@@ -1,14 +1,13 @@
 # Diana Štěpničková
 
-## I am Diana,
+## Diana who?
 
-illustrator, graphic designer and mediocre ukulele player based in Kutná Hora. With my front-end developer husband and our 9 months old son we live in the beautiful historical city of Kutná Hora right next to a river and a deciduous forest. Here I am working on illustrations, and web and print designs.
+I am illustrator, graphic designer and mediocre ukulele player based in Kutná Hora. With my front-end developer husband and our 9 months old son we live in the beautiful historical city of Kutná Hora right next to a river and a deciduous forest. Here I am working on illustrations, and web and print designs.
 
 - [My story](03-aboutness/index.md)
 - [View CV](04-experience/pdf/cv-stepnickova.pdf)
+
 ![colorful artistic illustration of a womans face.](03-aboutness/img/portret.png)
-
-
 
 ## Work
 - Case Study: [Shoptet's illustration system](03-aboutness/case-study.md)
