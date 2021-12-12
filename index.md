@@ -1,4 +1,5 @@
 # Diana Štěpničková
+![colorful artistic illustration of a womans face.](03-aboutness/img/portret.png)
 
 ## About
 
