@@ -1,6 +1,4 @@
-# Diana Štěpničková
-
-![colorful artistic illustration of a womans face.](03-aboutness/img/portretmini.png)
+![colorful artistic illustration of a womans face.](03-aboutness/img/baner.png)
 
 ## About
 
@@ -23,5 +21,7 @@ I am illustrator, graphic designer and mediocre ukulele player based in Kutná H
 ## Contact
 
 - email: stepnickovadiana@gmail.com
+
+![colorful artistic illustration of a womans face.](03-aboutness/img/portretmini.png)
 
 
