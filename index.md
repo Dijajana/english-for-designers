@@ -7,7 +7,7 @@ I am illustrator, graphic designer and mediocre ukulele player based in Kutná H
 - [My story](03-aboutness/index.md)
 - [View CV](04-experience/pdf/cv-stepnickova.pdf)
 
-![colorful artistic illustration of a womans face.](03-aboutness/img/portret.png)
+![colorful artistic illustration of a womans face.](03-aboutness/img/portretmini.png)
 
 ## Work
 - Case Study: [Shoptet's illustration system](03-aboutness/case-study.md)
