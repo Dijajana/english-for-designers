@@ -1,6 +1,6 @@
 # Takeaways
 
-This semestr I have learned...
+This semester I have learned...
 
 1. how to present myself and my work as a designer.
 2. what is *alt text* and how (and why) to write it properly.
