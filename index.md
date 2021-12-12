@@ -15,6 +15,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 - Storytelling (WIP): [Mindboard in FigJam](https://www.figma.com/file/BaIiKJCK2WRU3MPyZmiZ0Z/Storytelling?node-id=0%3A1/)
 - Extra: [Takeaways](extra-takeaways/index.md)
 
+## Diana's repo
 - [View coursework](https://dijajana.github.io/english-for-designers/)
 
 ## Contact
