@@ -9,7 +9,7 @@ I am illustrator, graphic designer and mediocre ukulele player based in Kutná H
 - [View CV](04-experience/pdf/cv-stepnickova.pdf)
 
 
-![about.](03-aboutness/img/work.png)
+![work.](03-aboutness/img/work.png)
 
 - Case Study: [Shoptet's illustration system](03-aboutness/case-study.md)
 - Impression: [My best portfolio pieces](02-impression/index.md)
@@ -17,10 +17,10 @@ I am illustrator, graphic designer and mediocre ukulele player based in Kutná H
 - Storytelling (WIP): [Mindboard in FigJam](https://www.figma.com/file/BaIiKJCK2WRU3MPyZmiZ0Z/Storytelling?node-id=0%3A1/)
 - Extra: [Takeaways](extra-takeaways/index.md)
 
-![about.](03-aboutness/img/repo.png)
+![repo.](03-aboutness/img/repo.png)
 - [View coursework](https://dijajana.github.io/english-for-designers)
 
-![about.](03-aboutness/img/contact.png)
+![contact.](03-aboutness/img/contact.png)
 - email: stepnickovadiana@gmail.com
 
 ![colorful artistic illustration of a womans face.](03-aboutness/img/portretmini.png)
