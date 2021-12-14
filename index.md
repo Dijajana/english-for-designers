@@ -16,7 +16,7 @@ I am illustrator, graphic designer and mediocre ukulele player based in Kutná H
 - Extra: [Takeaways](extra-takeaways/index.md)
 
 ## Diana's repo
-- [View coursework](https://dijajana.github.io/english-for-designers/)
+- [View coursework](https://dijajana.github.io/english-for-designers)
 
 ## Contact
 
