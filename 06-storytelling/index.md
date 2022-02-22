@@ -10,7 +10,7 @@ That was the moment I realized that I want to be a great graphic designer. But o
 ![Fish in a sack.](img/897.gif)
 
 When I tried to design a random project, the results were catastrophic. 
-<iframe src="https://giphy.com/embed/3osxY5nWRdVLlxbQk0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/new-girl-fox-new-girl-newgirl-3osxY5nWRdVLlxbQk0">via GIPHY</a></p>
+![drawing.](img/fail-drawing.gif)
 
 
 The more I learned about design the more lost I felt. After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on dribbble? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. I needed to get on track. I needed to learn from actual designers. Have them show me their ways. I gathered my best pieces and applied to design school. 
