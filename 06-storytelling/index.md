@@ -3,7 +3,7 @@ by Diana Štěpničková
 
 ![Diana Hrdlickova's first business card.](img/vizitka.png)
 
-I tried to design. After learning how to awkwardly operate an illustrator I tried to design my very own business card. "Diana Hrdličková" I'm writing down in illustrator next to my very first vector illustration that I'm overly proud of. After admiring it some more I'm adding "Graphic designer" in to the corner. My head is already spinning - not a career with routine tasks repeating in a tiring neverending circle. But a craft that I can hone. A skill to nurture and wield throughout a lifetime. I clicked with a design like Romeo did with Juliet. Every minute spend on design is a minute well-spent thanks to the promise I didn't even realize I made to myself. I will become a great designer. No matter how long it will take. No one can stop me.
+I tried to design. After learning how to awkwardly operate Illustrator I tried to design my very own business card. "Diana Hrdličková" — I'm writing down in illustrator typing into a text box next to my very first vector illustration that I'm overly proud of. After admiring it some more, I add — "Graphic designer" into the upper right corner. My head is already spinning — not a career with routine tasks repeating in a tiring, never-ending circle. But a craft that I can hone. A skill to nurture and wield throughout a lifetime. I clicked with a design like Romeo did with Juliet. Every minute spend on design is a minute well-spent thanks to the promise I didn't even realize I made to myself. I will become a great designer. No matter how long it will take. No one can stop me.
 
 ..
 
@@ -11,11 +11,11 @@ I tried to design. After learning how to awkwardly operate an illustrator I trie
 
 ..
 
-That was the moment I realized that I want to be a great graphic designer. But one does not simply become a great designer. When I tried to design a random project, the results were catastrophic. The more I learned about design the more lost I felt. 
+That was the moment I realized that I wanted to be a great graphic designer. But one does not simply become a great designer. When I tried to design a random project, the results were catastrophic. The more I learned about design the more lost I felt. 
 
 ![drawing.](img/fail-drawing.gif)
 
-After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on dribbble? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. 
+After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on [Dribbble](https://dribbble.com) ? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. 
 
 ![mr bean.](img/mr-bean.gif)
 
@@ -30,7 +30,7 @@ I am Diana, illustrator, graphic designer and mediocre ukulele player based in K
 
 ## Research
 
-[Design story Moodboard](https://www.figma.com/file/BaIiKJCK2WRU3MPyZmiZ0Z/Storytelling?node-id=0%3A1.org)
+[Design story moodboard](https://www.figma.com/file/BaIiKJCK2WRU3MPyZmiZ0Z/Storytelling?node-id=0%3A1.org)
 
 
 
