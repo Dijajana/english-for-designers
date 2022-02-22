@@ -15,13 +15,11 @@ That was the moment I realized that I want to be a great graphic designer. But o
 
 ![drawing.](img/fail-drawing.gif)
 
-
-
 After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on dribbble? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. 
 
-I needed to get on track. I needed to learn from actual designers. Have them show me their ways. I gathered my best pieces and applied to design school. 
-
 ![mr bean.](img/mr-bean.gif)
+
+I needed to get on track. I needed to learn from actual designers. Have them show me their ways. I gathered my best pieces and applied to design school. 
 
 In my first year, it was made clear to me that my goal isn't to create a beautiful design at all. The visual side of the design is but a manifestation of the message that stands behind it. A pretty image is rendered useless unless it carries a deeper meaning. That came as a shock. Not only do I need to learn how to create stunning work. Now I need to go looking for some deeper meaning as well. Every single time. But what seemed to be such a bother at the beginning has become a key to designing later. This was why my designs didn't work. And it was also why those designs I admired felt so right. They weren't just a facade, they were the whole building. I realized that I wasn't waiting for the right brief. I was waiting for myself to change my attitude towards them. In the following years, I have learned the complete design process and whenever I'm on a project I can't help but act like it is the "Next in design" final (even if I'm working on my grandma's business card). I am in the final semester of college and I am pretty sure that I am becoming a proper designer. And one day I will become a great one. No matter how long it will take. No one can stop me.
 
