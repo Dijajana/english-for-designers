@@ -17,8 +17,8 @@ I am an illustrator, graphic designer, and mediocre ukulele player based in Kutn
 - Storytelling (WIP): [Mindboard in FigJam](https://www.figma.com/file/BaIiKJCK2WRU3MPyZmiZ0Z/Storytelling?node-id=0%3A1/)
 - Extra: [Takeaways](extra-takeaways/index.md)
 
-![repo.](03-aboutness/img/repo.png)
-- [View coursework](https://dijajana.github.io/english-for-designers)
+![repo.](03-aboutness/img/repo.png) 
+- [View coursework](https://github.com/dijajana/english-for-designers) 
 
 ![contact.](03-aboutness/img/contact.png)
 - email: stepnickovadiana@gmail.com
