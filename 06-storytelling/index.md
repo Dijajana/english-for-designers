@@ -7,6 +7,7 @@ I tried to design. After learning how to awkwardly operate an illustrator I trie
 
 
 That was the moment I realized that I want to be a great graphic designer. But one does not simply become a great designer. When I tried to design a random project, the results were catastrophic. 
+
 ![drawing.](img/fail-drawing.gif)
 
 
