@@ -5,13 +5,21 @@ by Diana Štěpničková
 
 I tried to design. After learning how to awkwardly operate an illustrator I tried to design my very own business card. "Diana Hrdličková" I'm writing down in illustrator next to my very first vector illustration that I'm overly proud of. After admiring it some more I'm adding "Graphic designer" in to the corner. My head is already spinning - not a career with routine tasks repeating in a tiring neverending circle. But a craft that I can hone. A skill to nurture and wield throughout a lifetime. I clicked with a design like Romeo did with Juliet. Every minute spend on design is a minute well-spent thanks to the promise I didn't even realize I made to myself. I will become a great designer. No matter how long it will take. No one can stop me.
 
+.
+.
+.
 
 That was the moment I realized that I want to be a great graphic designer. But one does not simply become a great designer. When I tried to design a random project, the results were catastrophic. 
 
 ![drawing.](img/fail-drawing.gif)
 
+.
+.
+.
 
-The more I learned about design the more lost I felt. After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on dribbble? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. I needed to get on track. I needed to learn from actual designers. Have them show me their ways. I gathered my best pieces and applied to design school. 
+The more I learned about design the more lost I felt. After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on dribbble? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. 
+
+I needed to get on track. I needed to learn from actual designers. Have them show me their ways. I gathered my best pieces and applied to design school. 
 
 ![mr bean.](img/mr-bean.gif)
 
