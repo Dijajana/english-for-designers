@@ -6,10 +6,7 @@ by Diana Štěpničková
 I tried to design. After learning how to awkwardly operate an illustrator I tried to design my very own business card. "Diana Hrdličková" I'm writing down in illustrator next to my very first vector illustration that I'm overly proud of. After admiring it some more I'm adding "Graphic designer" in to the corner. My head is already spinning - not a career with routine tasks repeating in a tiring neverending circle. But a craft that I can hone. A skill to nurture and wield throughout a lifetime. I clicked with a design like Romeo did with Juliet. Every minute spend on design is a minute well-spent thanks to the promise I didn't even realize I made to myself. I will become a great designer. No matter how long it will take. No one can stop me.
 
 
-That was the moment I realized that I want to be a great graphic designer. But one does not simply become a great designer. 
-![Fish in a sack.](img/897.gif)
-
-When I tried to design a random project, the results were catastrophic. 
+That was the moment I realized that I want to be a great graphic designer. But one does not simply become a great designer. When I tried to design a random project, the results were catastrophic. 
 ![drawing.](img/fail-drawing.gif)
 
 
