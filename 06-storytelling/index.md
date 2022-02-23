@@ -9,7 +9,9 @@ That was the moment I realized that I wanted to be a great graphic designer. But
 
 ![drawing.](img/fail-drawing.gif)
 
-After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. Why don't I ever work on projects as I see on [Dribbble](https://dribbble.com) ? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. 
+After a series of jobs for business owners that didn't want to spend their budget on actual designers and one year of busy work in a local graphic studio I still wasn't a proper designer. Let alone a great one. I didn't like the jobs I was working on. 
+
+Why don't I ever work on projects as I see on [Dribbble](https://dribbble.com) ? Those designs. Looking like there couldn't possibly be a better way to design them. Feeling just right. Everything fits together in a perfect visual orchestra. If only I was given the same brief as them I was sure I could do it. 
 
 ![mr bean.](img/mr-bean.gif)
 
