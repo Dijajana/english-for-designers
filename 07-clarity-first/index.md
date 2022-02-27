@@ -10,12 +10,9 @@
 
 ## Summary
 
-By redesigning a bookseries Ještědské romány I would like to reintroduce a significant czech writter from the group May school, and one of the first czech feminists – Karolina Světlá, to the young generation. 
+By redesigning a bookseries Ještědské romány I would like to reintroduce a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation. 
 
 <!-- Disclosure widget, HTML in Markdown -->
-
-
-Contemporary design of books from the May-school group writters and other classical literature writters 
 
 <details>
   <summary><b>Mind Map</b></summary>
@@ -24,23 +21,22 @@ Contemporary design of books from the May-school group writters and other classi
 
 ## Keywords
 
-- **Keyword**
-  - Optional definition/description in **125 characters** or fewer.
-- **Keyword**
-  - …
-- **Keyword**
-  - …
-- **Keyword**
-  - …
-- **Keyword**
-  - …
+- **Karolina Světlá**
+
+- **May-school**
+
+- **Feminism**
+
+- **Book series**
+
+- **Graphic design**
 
 ## Key Points
 
 <!-- Key points; aim for **30–60 words** each. -->
 
-1. Background/importance of topic:
-2. Purpose/hypothesis (thesis or statement of problem):
+1. Background/importance of topic: Redesign of the classical literature book series "Ještědské romány" from the author Karolina Světlá.
+2. Purpose/hypothesis (thesis or statement of problem): Reintroducing a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation. 
 3. Research — design/methodology/approach including procedures/data/observations:
 4. Findings (highlight outcome of research):
 5. Conclusions (significance/success of study to theory/practical/society):
