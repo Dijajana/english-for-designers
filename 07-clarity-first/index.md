@@ -19,7 +19,7 @@ Contemporary design of books from the May-school group writters and other classi
 
 <details>
   <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
+  <img alt="Gray box placeholder image, for position only." src="./img/mind-map.png">
 </details>
 
 ## Keywords
