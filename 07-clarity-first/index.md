@@ -6,7 +6,7 @@
 - [Key Points](#key-points)
 - [References](#references)
 
-# Rediscovering Karoliny Světlá
+# Rediscovering Karolina Světlá
 
 ## Summary
 
