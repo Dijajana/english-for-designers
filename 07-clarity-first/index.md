@@ -1,8 +1,8 @@
 <!-- Table of Contents, in-page navigation -->
 
-- [Summary](#summary)
+- [Summary](##summary)
 - [Mind Map](#mind-map)
-- [Keywords](#keywords)
+- [Keywords](##keywords)
 - [Key Points](#key-points)
 - [References](#references)
 
@@ -41,22 +41,14 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 4. Findings (highlight outcome of research):
 5. Conclusions (significance/success of study to theory/practical/society):
 
-## References
 
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
-
-- [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
-- …
-- …
-
-
-What problem did the project solve? 
+## What problem did the project solve? 
 - Reintroduced KS to younger generation
 - Making her book series more atractive for current readers.
  
-What action did you take to do this project? 
+## What action did you take to do this project? 
 - Finding all the editions of the first book from the book series and studiyng the design development from 1867 to 2019
 - Looking at current design of the books from classical writters (especially from the May-school writters group).
 - Visiting the Podještědské museum to look at KS inheritence.
 
-How successful were you in solving the problem?
+## How successful were you in solving the problem?
