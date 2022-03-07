@@ -37,10 +37,9 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 
 1. Background/importance of topic: Redesign of the classical literature book series "Ještědské romány" from the author Karolina Světlá.
 2. Purpose/hypothesis (thesis or statement of problem): Reintroducing a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation. 
-3. Research — design/methodology/approach including procedures/data/observations:
-4. Findings (highlight outcome of research):
-5. Conclusions (significance/success of study to theory/practical/society):
-
+3. Research — design/methodology/approach including procedures/data/observations: I researched previous editions of the book "Vesnický román" and looked into the current design of classic literature.
+4. Findings (highlight outcome of research): The number of published edition has been slowly decreasing over the years.
+5. Conclusions (significance/success of study to theory/practical/society): If published, the book series could help keep alive the memory of the writter Karolina Světlá and make classic literature more attractive for younger generation.
 
 ## What problem did the project solve? 
 - Reintroduced KS to younger generation
@@ -51,4 +50,4 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 - Looking at current design of the books from classical writters (especially from the May-school writters group).
 - Visiting the Podještědské museum to look at KS inheritence.
 
-## How successful were you in solving the problem?
+
