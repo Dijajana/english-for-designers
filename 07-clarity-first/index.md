@@ -1,8 +1,8 @@
 <!-- Table of Contents, in-page navigation -->
 
-- [Summary](##summary)
+- [Summary](#summary)
 - [Mind Map](#mind-map)
-- [Keywords](##keywords)
+- [Keywords](#keywords)
 - [Key Points](#key-points)
 - [References](#references)
 
