@@ -14,8 +14,10 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 
 <!-- Disclosure widget, HTML in Markdown -->
 
+## Mind map
+
 <details>
-  <summary><b>Mind Map</b></summary>
+  <summary><b>open</b></summary>
   <img alt="Gray box placeholder image, for position only." src="./img/mind-map.png">
 </details>
 
