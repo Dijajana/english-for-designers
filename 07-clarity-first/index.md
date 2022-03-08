@@ -43,13 +43,16 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 4. Findings (highlight outcome of research): The number of published edition has been slowly decreasing over the years.
 5. Conclusions (significance/success of study to theory/practical/society): If published, the book series could help keep alive the memory of the writter Karolina Světlá and make classic literature more attractive for younger generation.
 
-## What problem did the project solve? 
+## Warm-up
+
+1.Problem  
 - Reintroduced KS to younger generation
 - Making her book series more atractive for current readers.
  
-## What action did you take to do this project? 
+2. Action
 - Finding all the editions of the first book from the book series and studiyng the design development from 1867 to 2019
 - Looking at current design of the books from classical writters (especially from the May-school writters group).
 - Visiting the Podještědské museum to look at KS inheritence.
 
-
+3. Result
+- If published, the book series could help keep alive the memory of the writter Karolina Světlá and make classic literature more attractive for younger generation.
