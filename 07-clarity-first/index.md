@@ -57,3 +57,8 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 
 3. Result
 - If published, the book series could help keep alive the memory of the writter Karolina Světlá and make classic literature more attractive for younger generation.
+
+## References
+
+[Podještědské museum](https://www.muzeumceskydub.cz/en)
+[Karolina Světlá - wikipedia](https://en.wikipedia.org/wiki/Karolina_Sv%C4%9Btl%C3%A1)
