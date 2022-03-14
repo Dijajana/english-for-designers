@@ -10,4 +10,4 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 Karolina Světlá, May School, Feminism, Book series, Graphic design
 
 ## Presentation
-[Presentation](pdf/presentation.pdf)
+[Open presentation](pdf/presentation.pdf)
