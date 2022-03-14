@@ -1,19 +1,12 @@
-# Hed (Working title of thesis)
-
-<!-- Please limit the title to **70 characters** or fewer. -->
+# Rediscovering Karolina Světlá
 
 ## Abstract
 
-A brief statement summarizing your thesis, based on language from PAR statement and key points from Clarity First in **75 words** or fewer. Remember to use academic voice.
+By redesigning a bookseries Ještědské romány I would like to reintroduce a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation.
 
 ## Keywords
 
-<!-- A comma separated list of identifiable and searchable terms. -->
-
-query, to come, TK
+Karolina Světlá, May School, Feminism, Book series, Graphic design
 
 ## Presentation
 
-<!-- Work-in-progress thesis presetation. -->
-
-<-- Add a link to your presentation or add presentation content in Markdown here. -->
