@@ -1,4 +1,5 @@
 # Rediscovering Karolina Světlá
+![Karolina Svetla.](img/ks.png)
 
 ## Abstract
 
