@@ -11,9 +11,7 @@
 
 ## Summary
 
-By redesigning a bookseries Ještědské romány I would like to reintroduce a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation. 
-
-<!-- Disclosure widget, HTML in Markdown -->
+By redesigning a bookseries Ještědské romány I would like to reintroduce a significant Czech writter from the group May School, and one of the first Czech feminists – Karolina Světlá, to the young generation. 
 
 ## Mind map
 
@@ -36,8 +34,6 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 
 ## Key Points
 
-<!-- Key points; aim for **30–60 words** each. -->
-
 1. Background: Redesign of the classical literature book series "Ještědské romány" from the author Karolina Světlá.
 2. Purpose: Reintroducing a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation. 
 3. Research: I researched previous editions of the book "Vesnický román" and looked into the current design of classic literature.
@@ -46,20 +42,20 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 
 ## Warm-up
 
-1.Problem  
+- 1.Problem  
 - Reintroduced KS to younger generation
 - Making her book series more atractive for current readers.
  
-2. Action
+- 2. Action
 - Finding all the editions of the first book from the book series and studiyng the design development from 1867 to 2019
 - Looking at current design of the books from classical writters (especially from the May-school writters group).
 - Visiting the Podještědské museum to look at KS inheritence.
 
-3. Result
+- 3. Result
 - If published, the book series could help keep alive the memory of the writter Karolina Světlá and make classic literature more attractive for younger generation.
 
 ## References
 
-[Podještědské museum](https://www.muzeumceskydub.cz/en)
-
-[Karolina Světlá - wikipedia](https://en.wikipedia.org/wiki/Karolina_Sv%C4%9Btl%C3%A1)
+- [Podještědské museum](https://www.muzeumceskydub.cz/en)
+- [In the Footsteps of Karolina Světlá](http://www.karolinasvetla.cz/en/)
+- [Karolina Světlá - wikipedia](https://en.wikipedia.org/wiki/Karolina_Sv%C4%9Btl%C3%A1)
