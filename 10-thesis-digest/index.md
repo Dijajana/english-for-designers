@@ -40,4 +40,8 @@ This paper is focused on creating a unified visual identity for the book series 
 
 ## Images
 
-<!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
+![coverdesign.](img/covers.png)
+
+![inside the book series.](img/all.png)
+
+![inside the book Vensický román.](img/inside.png)
