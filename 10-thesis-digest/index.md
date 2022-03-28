@@ -50,8 +50,8 @@ This paper is focused on creating a unified visual identity for the book series 
 
 ![inside the book series.](img/all.png)
 
-![book spines.](img/hrbety.png)
-
 ![book spines.](img/hrbety2.png)
+
+![book spines.](img/hrbety.jpg)
 
 
