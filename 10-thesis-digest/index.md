@@ -51,10 +51,9 @@ I tried to find the ideal balance in which the illustrations would look modern a
 ![book illustrations.](img/serie.png)
 Illustration series for "The Village Novel".
 
-![edited photos.](img/editedphotos.jpg)
-
-### Color palette
 ![color palette.](img/paleta.png)
+
+![edited photos.](img/editedphotos.jpg)
 
 I then applied the illustrations to the book covers and chosen chapters of the book so that they always accompany the story.
 
