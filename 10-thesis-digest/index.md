@@ -7,15 +7,13 @@ Author Name(s): Diana Štěpničková
 
 E-mail(s): dianastepnickova@gmail.com
 
-Acknowledgement(s):
+Acknowledgement(s):  I would like to thank Mr. MgA. Miroslav Roubíček for the advice and guidance in the development of this thesis and also throughout my studies. Furthermore to Mr. Mgr. Jaroslav Tvrdoň for the typographic knowledge and the expert information he provided me with during the preparation of "The Village Novel", and to my family for their support.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
 <!-- See https://www.cambridge.org/core/services/authors/open-data/data-availability-statements -->
 
-Word count: <!-- Digests should be approximately 500 words. Everything below, including headings, image captions, etc., except references. -->
-
-- - -
+Word count: 497
 
 # Digest: Rediscovering Karolina Světlá
 
@@ -55,15 +53,15 @@ Illustration series for "The Village Novel".
 
 ![edited photos.](img/editedphotos.jpg)
 
-I then applied the illustrations to the book covers and chosen chapters of the book so that they always accompany the story.
+I then applied the illustrations to the book covers and chosen chapters in the book so that they always accompany the story.
 
-### Final cover design
+### Cover design
 ![coverdesign.](img/covers.png)
 
-### Inside the book Vesnicky roman
+### Inside "The Village Novel"
 ![inside the book Vesnický román.](img/inside.png)
 
-### Final book design
+### Unified visual identity
 ![inside the book series.](img/all.png)
 
 ### Book spines forming an image of Karolina Svetla
