@@ -42,7 +42,7 @@ First, I needed to edit the photographs of the inheritance and other historical 
 
 ![testing different effects.](img/test.jpg)
 
-### Illustration series for the book Vesnicky roman
+### Illustration series for "The Village Novel"
 
 I tried to find the ideal balance in which the illustrations would look modern and retain their readability. I chose a cheerful color palette with lighter, rich colors and created a series of illustrations for the book called "The Village Novel".
 
