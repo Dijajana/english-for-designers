@@ -7,7 +7,7 @@ This paper is focused on creating a unified visual identity for the book series 
 
 ## Keywords
 
-Karolina Světlá, May School, Feminism, Book series, Graphic design
+book series, feminism, graphic design, karolina svetla, may school
 
 ## Presentation
 [Open presentation](pdf/presentation.pdf)
