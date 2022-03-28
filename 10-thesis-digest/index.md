@@ -2,11 +2,6 @@
 
 # Rediscovering Karolina Světlá
 
-<!--
-A running title is an abbreviated form of the main title, usually cited at the top of each published page or left-hand text pages.
-
-If your title is already short, use your actual title. If your title is not very short, use an abbreviated version of it as the running title.
--->
 
 Author Name(s): … Diana Štěpničková
 
@@ -22,30 +17,26 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 - - -
 
-# Digest: <!-- Full title from above -->
+# Digest: Rediscovering Karolina Světlá
 
 ## Abstract
 
-<!-- A descriptive (100 words or less) or an informative abstract (300 words or less; aim for half, around 150 words or less, but write first, edit second.-->
+By redesigning a bookseries Ještědské romány I would like to reintroduce a significant czech writter from the group May-school, and one of the first czech feminists – Karolina Světlá, to the young generation.
 
 ## Keywords
 
-<!-- comma separated terms, all in lowercase letters, and arranged alphabetically  -->
+book series, feminism, graphic design, karolina svetla, may school
 
 ## Main Text
 
-<!--
-Consider these four sections:
+This paper is focused on creating a unified visual identity for the book series Ještědské romány and connecting it with a suitable marketing solution. The resulting concept should help reintroduce the Czech writer from the May School group and one of the first Czech feminists Karolina Světlá to the people of age 18-40yo (and at the same time support the sale of the books). The theoretical part deals with the writer's life, work and merits in the field of feminism. It examines the development of the book Vesnický román (the first book in the Ještědské romány series) in detail and looks at Karolina Světlá's inheritance in the Podještědské Museum. It introduces the issues of book production and contains a quick insight into the book market. The graphic solution in the practical part connects the old elements with the new ones so that the books remain true to their content, but at the same time address the target group.
 
-1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
-2. Summary of original article’s methods and results.
-3. Further discussion on significance of findings.
-4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
- -->
 
 ## References
 
-<!-- Use an unordered list, arranged alphabetically by author’s surname.  -->
+- [Podještědské museum](https://www.muzeumceskydub.cz/en)
+- [In the Footsteps of Karolina Světlá](http://www.karolinasvetla.cz/en/)
+- [Karolina Světlá - wikipedia](https://en.wikipedia.org/wiki/Karolina_Sv%C4%9Btl%C3%A1)
 
 ## Images
 
