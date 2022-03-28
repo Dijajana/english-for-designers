@@ -40,16 +40,22 @@ This paper is focused on creating a unified visual identity for the book series 
 
 ## Images
 
+### Color palette
 ![color palette.](img/paleta.png)
 
+### Final cover design
 ![coverdesign.](img/covers.png)
 
+### Inside the book Vesnicky roman
 ![inside the book Vesnický román.](img/inside.png)
 
+### Illustration series for the book Vesnicky roman
 ![book illustrations.](img/serie.png)
 
+### Final book design
 ![inside the book series.](img/all.png)
 
+### Book spines forming an image of Karolina Svetla
 ![book spines.](img/hrbety2.png)
 
 ![book spines.](img/hrbety.jpg)
