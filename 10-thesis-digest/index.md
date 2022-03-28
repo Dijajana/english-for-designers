@@ -40,8 +40,14 @@ This paper is focused on creating a unified visual identity for the book series 
 
 ## Images
 
+![color palette.](img/paleta.png)
+
 ![coverdesign.](img/covers.png)
 
 ![inside the book series.](img/all.png)
 
 ![inside the book Vensický román.](img/inside.png)
+
+![book illustrations.](img/serie.png)
+
+
