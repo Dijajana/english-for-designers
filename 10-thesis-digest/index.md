@@ -52,9 +52,9 @@ I tried to find the ideal balance in which the illustrations would look modern a
 
 ![edited photos.](img/editedphotos.jpg)
 
-I then applied the illustrations to the book covers and chosen chapters in the book so that they always accompany the story.
 
 ### Cover design
+I applied the illustrations to the book covers and chosen chapters in the book so that they always accompany the story.
 ![coverdesign.](img/covers.png)
 
 ### Inside "The Village Novel"
