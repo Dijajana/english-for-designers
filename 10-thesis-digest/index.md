@@ -23,7 +23,7 @@ By redesigning a bookseries Ještědské romány I would like to reintroduce a s
 
 ## Keywords
 
-book series, feminism, graphic design, karolina svetla, may school
+book series, feminism, graphic design, Karolina Svetla, may school
 
 ## Main Text
 
