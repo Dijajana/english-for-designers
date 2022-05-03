@@ -3,7 +3,7 @@
 
 ![about.](03-aboutness/img/about.png)
 
-I am an illustrator, graphic designer, and mediocre ukulele player based in Kutná Hora. With my front-end developer husband and our 11 months old son, we live in the beautiful historical city of Kutná Hora right next to a river and a deciduous forest. Here I am working on illustrations, and web and print designs.
+I am an illustrator, graphic designer, and mediocre ukulele player based in Kutná Hora. With my front-end developer husband and our 1 year old son, we live in the beautiful historical city of Kutná Hora right next to a river and a deciduous forest. Here I am working on illustrations, and web and print designs.
 
 - [My story](03-aboutness/index.md)
 - [View CV](04-experience/pdf/cv-stepnickova.pdf)
