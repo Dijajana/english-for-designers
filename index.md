@@ -21,6 +21,7 @@ I am an illustrator, graphic designer, and mediocre ukulele player based in Kutn
 
 - Extra: 
 [Takeaways](extra-takeaways/index.md)
+and
 [Year review](year-review/index.md)
 
 ![repo.](03-aboutness/img/repo.png) 
