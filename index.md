@@ -13,9 +13,11 @@ I am an illustrator, graphic designer, and mediocre ukulele player based in Kutn
 
 - Case Study: [Shoptet's illustration system](03-aboutness/case-study.md)
 - Impression: [My best portfolio pieces](02-impression/index.md)
-- [Character & Description](01-character-description/index.md)
+- Character & Description [Letter D](01-character-description/index.md)
 - Storytelling: [My design story](https://github.com/Dijajana/english-for-designers/blob/main/06-storytelling/index.md)
 
+
+Thesis
 - Thesis digest: [Karolina Světlá](10-thesis-digest/index.md)
 - Presentation:[Thesis presentation](11-presentation/index.md)
 
