@@ -2,7 +2,7 @@
 
 1. What did you like most about this subject?
 
-I like how it's encouraging our creativity over being too serious and how the writting assignments are forcing us to think more about ourself and the thinks we do.
+I like how it's encouraging our creativity over being too serious and how the writting assignments are forcing us to think more about ourselfs and the thinks we do.
 
 2. What did you like least about this subject?
 
@@ -30,11 +30,11 @@ Nothing.
 
 8. What is one thing you could have done better this year?
 
-Nothing. I gave it my best shot and have no regretts.
+Nothing. I gave it my best shot and have no regrets.
 
 9. What is one thing I could have done better as a teacher this year?
 
-Nothing, You were great.
+Nothing, You we're great.
 
 10. What advice would you give to students going into this subject next year?
 
