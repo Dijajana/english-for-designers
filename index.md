@@ -16,7 +16,7 @@ I am an illustrator, graphic designer, and mediocre ukulele player based in Kutn
 - Character & Description: [Letter D](01-character-description/index.md)
 - Storytelling: [My design story](https://github.com/Dijajana/english-for-designers/blob/main/06-storytelling/index.md)
 - Thesis digest: [Karolina Světlá](10-thesis-digest/index.md)
-- Presentation:[Thesis presentation](11-presentation/index.md)
+- Presentation: [Thesis presentation](11-presentation/index.md)
 
 - Extra: 
 [Takeaways](extra-takeaways/index.md)
